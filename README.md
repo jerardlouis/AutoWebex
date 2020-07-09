@@ -11,4 +11,8 @@ Remember to open terminal or command prompt and type:
 WITHOUT THESE FILES ISNTALLED THE CODE WILL NOT RUN
 *
 *
+HOW TO OPEN:
+    Open autoWebex.py in your text editor
+    Read through comments and update any code indicated and enter your class information
 '''
+.exe no-coding version currently in progress
