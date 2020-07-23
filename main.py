@@ -8,7 +8,7 @@ import schedule, time, pyautogui, datetime
 wait = 0
 def start():
     print('doing stuff now')
-    pyautogui.click(1248,1780)923831557
+    pyautogui.click(1248,1780)
     
     print('Now the good shit starts')
     time.sleep(0.5)
