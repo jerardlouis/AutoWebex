@@ -39,34 +39,4 @@ while True:
         print(str(wait) + ' minutes since execution')
     time.sleep(60)
 
-'''
-class meeting:
-    times = {}
-    classID = ''
-    password = ''
-    classLength = 0
-    def __init__(self):
-        print('Enter the class meeting ID:\n')
-        self.classID = input()
-        print('Enter the password to your class:\n')
-        self.password = input()
-        print('How many times a week does your class meet?\n')
-        x = input()
-        print('The code will now prompt you to enter the days in which your classes meet\n')
-        for i in range(x+1):
-            print('Day ' + str(i+1) + ' of your class meetings in lowercase:\n')
-            day = input()
-            print('Enter the time of your class in military time\n')
-            print('ex: 1:00pm = 13:00')
-            time = input()
-            self.times.update({day:time})
-            print('Enter the amount of minutes your class takes\n')
-            print('Ex: 2 hours and 15 minutes is 135 minutes')
-            self.classLength = input()
 
-class classes:
-    def __init__(self):
-        print('How many classes are you enrolled in?')
-        x = input()
-
-'''
