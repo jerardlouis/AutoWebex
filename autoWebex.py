@@ -1,12 +1,6 @@
-import pyautogui, time,schedule, os
+import pyautogui, time, os
 
 
-def start():
-    print("{} Start the job".format(datetime.datetime.now()))
-
-def stop():
-    print("{} Time's up!!!".format(datetime.datetime.now()))
-    sys.exit()
 '''
 *
 *
@@ -98,11 +92,4 @@ time.sleep('time')
 #leave class
 pyautogui.hotkey('alt','f4')
 print('left class')
-'''
-*
-*
-Update code below:
-*
-*
-'''
-schedule.every().'enter day here'.at("time").do(stop)
+
