@@ -12,12 +12,7 @@ class meeting():
 
 #List of classes to append class meetings to
 classes = [
-    #cs241 = meeting('classID','meetingPass','12:30','15:20',['Monday']),
-    math333 = meeting('922617121','NULL','12:30','13:50',['Tuesday','Thursday']),
-    cs350 = meeting('1202568881','applesauce','14:30','15:50',['Tuesday','Thursday']),
-    cs356no1 = meeting('1203126384','w3N9np6Mkix','09:00','10:20',['Tuesday']),
-    cs356no2 = meeting('1203126384','w3N9np6Mkix','11:00','12:20',['Wednesday']),
-    #eng340 = meeting('94963492346','Gorelick','11:00','12:30',['Tuesday','Thursday']) #Class is on zoom
+    #Dictionary for meeting objects here
 ]
 #Run the code to join classes
 def main():
