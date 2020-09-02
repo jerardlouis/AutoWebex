@@ -1,6 +1,6 @@
 import pyautogui, time,schedule, os
 
-os.chdir (r'C:\Users\jguev\OneDrive\Documents\JERARD NJIT\Summer 2020')
+os.chdir ('FILE LOCATION HERE')
 
 screenWidth, screenHeight = pyautogui.size() # Get the size of the primary monitor.
 
